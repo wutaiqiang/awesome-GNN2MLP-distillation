@@ -3,6 +3,7 @@ Learning MLPs to replace GNN
 
 
 [2023-04-17] This is our first release, feel free to contact us if you find any missing important Papers. You are also welcome to create a pull request to contribute anything you feel useful!
+[2023-06-03] Add one paper
 
 ---
 # Papers
@@ -16,6 +17,8 @@ Learning MLPs to replace GNN
 
 - Linkless Link Prediction via Relational Distillation | [Paper](https://openreview.net/forum?id=He7UIpiEq_O
 )
+
+-  Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework | [Paper](https://arxiv.org/abs/2305.10758) | [Code](https://github.com/LirongWu/FF-G2M)
 
 ## Regularization
 
