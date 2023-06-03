@@ -3,6 +3,7 @@ Learning MLPs to replace GNN
 
 
 [2023-04-17] This is our first release, feel free to contact us if you find any missing important Papers. You are also welcome to create a pull request to contribute anything you feel useful!
+
 [2023-06-03] Add one paper
 
 ---
